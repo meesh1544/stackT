@@ -1,0 +1,15 @@
+C:\Users\meesh\source\repos\stackT\stackT\bin\Debug\net6.0\stackT.exe
+C:\Users\meesh\source\repos\stackT\stackT\bin\Debug\net6.0\stackT.deps.json
+C:\Users\meesh\source\repos\stackT\stackT\bin\Debug\net6.0\stackT.runtimeconfig.json
+C:\Users\meesh\source\repos\stackT\stackT\bin\Debug\net6.0\stackT.dll
+C:\Users\meesh\source\repos\stackT\stackT\bin\Debug\net6.0\stackT.pdb
+C:\Users\meesh\source\repos\stackT\stackT\obj\Debug\net6.0\stackT.csproj.AssemblyReference.cache
+C:\Users\meesh\source\repos\stackT\stackT\obj\Debug\net6.0\stackT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meesh\source\repos\stackT\stackT\obj\Debug\net6.0\stackT.AssemblyInfoInputs.cache
+C:\Users\meesh\source\repos\stackT\stackT\obj\Debug\net6.0\stackT.AssemblyInfo.cs
+C:\Users\meesh\source\repos\stackT\stackT\obj\Debug\net6.0\stackT.csproj.CoreCompileInputs.cache
+C:\Users\meesh\source\repos\stackT\stackT\obj\Debug\net6.0\stackT.dll
+C:\Users\meesh\source\repos\stackT\stackT\obj\Debug\net6.0\refint\stackT.dll
+C:\Users\meesh\source\repos\stackT\stackT\obj\Debug\net6.0\stackT.pdb
+C:\Users\meesh\source\repos\stackT\stackT\obj\Debug\net6.0\stackT.genruntimeconfig.cache
+C:\Users\meesh\source\repos\stackT\stackT\obj\Debug\net6.0\ref\stackT.dll
